@@ -1,0 +1,26 @@
+body{
+background-color: grey;
+}
+#herosection{
+    display: flex;
+    height:48vh;}
+.zerotwo{
+    width: 50%;
+    height:100%;}
+#myname{
+font-size:400%;
+text-align: center;}
+#one{
+font-size:medium;
+text-align: center;}
+#three{
+text-align: center;
+margin:6%;
+padding:3%;}
+#four{
+text-align: center;}
+#five{
+text-align: center;}
+form{
+    border: 1px;
+}
